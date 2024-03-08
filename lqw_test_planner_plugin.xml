@@ -1,0 +1,5 @@
+<library path="lqw_test_planner_plugin">
+	<class name="lqw_test_planner/LqwTestPlanner" type="lqw_test_planner::LqwTestPlanner" base_class_type="nav2_core::GlobalPlanner">
+	  <description>This plugin is written by a kawaii Bean!.</description>
+	</class>
+</library>
